@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Performative Male Coach</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="outfit">Outfit</string>
+    <string name="captions">Captions</string>
+    <string name="challenges">Challenges</string>
+    <string name="profile">Profile</string>
+
+    <!-- Home Screen -->
+    <string name="daily_tip_title">Today\'s Performance Tip</string>
+    <string name="performance_score">Performance Score</string>
+
+    <!-- Chat Screen -->
+    <string name="chat_placeholder">Ask your coach anything...</string>
+    <string name="coach_name">Chad GPT</string>
+
+    <!-- Outfit Analysis -->
+    <string name="upload_photo">Upload Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="outfit_score">Outfit Score</string>
+
+    <!-- Caption Generator -->
+    <string name="select_platform">Select Platform</string>
+    <string name="select_mood">Select Mood</string>
+    <string name="generate_caption">Generate Caption</string>
+
+    <!-- Daily Challenges -->
+    <string name="daily_challenges">Daily Challenges</string>
+    <string name="completed">Completed</string>
+    <string name="points">points</string>
+
+    <!-- Profile -->
+    <string name="total_score">Total Score</string>
+    <string name="streak">Streak</string>
+    <string name="premium">Go Premium</string>
+</resources>

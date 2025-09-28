@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Muted Earth Tones -->
+    <color name="warm_beige">#F5F1EB</color>
+    <color name="soft_taupe">#E8DDD4</color>
+    <color name="muted_brown">#C4B5A0</color>
+    <color name="deep_earth">#8B7355</color>
+    <color name="charcoal">#3A3731</color>
+
+    <!-- Matcha Green Accents -->
+    <color name="matcha_green">#6B8B3A</color>
+    <color name="light_matcha">#A4C47A</color>
+    <color name="sage_green">#9CAF7E</color>
+
+    <!-- UI Colors -->
+    <color name="primary">@color/matcha_green</color>
+    <color name="primary_variant">@color/sage_green</color>
+    <color name="secondary">@color/muted_brown</color>
+    <color name="secondary_variant">@color/deep_earth</color>
+    <color name="background">@color/warm_beige</color>
+    <color name="surface">@color/soft_taupe</color>
+    <color name="error">#B00020</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_background">@color/charcoal</color>
+    <color name="on_surface">@color/charcoal</color>
+    <color name="on_error">#FFFFFF</color>
+
+    <!-- Additional UI Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="text_hint">#757575</color>
+</resources>
